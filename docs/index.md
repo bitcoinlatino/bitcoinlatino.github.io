@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BTCL
 
 You can use e [editor on GitHub](https://github.com/bitcoinlatino/bitcoinlatino.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
