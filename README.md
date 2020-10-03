@@ -1,6 +1,6 @@
-# bitcoinlatino.github.io
+BTCL Bitcoin Latino
 
-Introducción al Bitcoin Latino 
+Introducción
 
 Bitcoin ha sido la mayor innovación tecnológica del siglo XXI, porque por primera vez en la historia de las finanzas y las transacciones financieras por internet se le devolvía el poder directamente a los usuarios de realizar giros y pagos completamente de persona a persona sin la necesidad de un intermediario como un banco o una institución procesadora de pagos. Bitcoin es como el dinero en efectivo donde puedes pagar sin la necesidad de registrar tus datos personales, es verdaderamente un sistema de dinero electrónico completamente entre pares, sin embargo, ya ha pasado más de una década desde su invención1 y no se ha cumplido con el objetivo de dinero electrónico para todo el mundo. 
 
