@@ -13,19 +13,20 @@ Con el protocolo SLP de bitcoin cash se volvió de nuevo a la visión inicial de
 Con todos estos avances tecnológicos y teniendo la visión de verdadero efectivo electrónico para todo el mundo, pero especialmente y teniendo en mente las economías emergentes que siempre se han quedado atrás de las principales innovaciones tecnológicas, se ha creado empleando el protocolo SLP de bitcoin cash con la metodología de Mistcoin la moneda electrónica **Bitcoin Latino BTCL**. 
  
 
-# ¿Qué es Bitcoin Latino? 
+## ¿Qué es Bitcoin Latino? 
 
-Bitcoin Latino BTCL es una moneda electrónica completamente entre pares o “peer to peer P2P”, que ha sido creada mediante el protocolo SLP o Simple Ledger Protocol de bitcoin cash6. Ha sido incorporada en el bloque 640900 con el ID xxxx94858589095xxxxx el día 27 de ictobre a las 3:45 pm hora del atlántico de la blockchain de Bitcoin Cash. 
+Bitcoin Latino BTCL es una moneda virtual descentralizada completamente entre pares o **“peer to peer P2P”**, que ha sido creada mediante el protocolo SLP o Simple Ledger Protocol y el sistema de minería de scrypt de **[(Mistcoin)](https://mistcoin.org/)** y funciona en la blockchain de Bitcoin Cash. Ha sido incorporada en el bloque **655223** el día **1 de octubre de 2020** con el ID: **20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a** a las 9:46 am hora del atlántico. 
 
-Las transacciones en BTCL se procesan completamente onchain en el top de la blockchain de Bitcoin Cash mediante el sistema especial de registro OP_RETURN y se pueden observar en el explorador de bloques especial del Simple Ledger Protocol y en el Explorer de bitcoin Bitcoin.com. 
+Las transacciones en BTCL se procesan completamente onchain en el top de la blockchain de Bitcoin Cash mediante el sistema especial de registro OP_RETURN y se pueden observar en el explorador de bloques especial del **[Simple Ledger Protocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** y en el Explorer de bitcoin **[Bitcoin.com.](https://explorer.bitcoin.com/bch/tx/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)**
 
-Es un sistema completamente open source o de código abierto donde cualquiera puede verificar y auditar el código, además existen muchos recursos como wallets y monederos donde almacenar los BTCL, entre otros. 
+Es un sistema completamente open source o de código abierto donde se utiliza la prueba de trabajo o **"Proof of Work"** mediante un simple pero novedoso bitcoin scrypt para la minería de nuevas monedas mediante el **"contrato covenant_1 de Mist"**. Cualquiera puede verificar y auditar el código en el repositorio abierto de **[github.](https://github.com/bitcoinlatino)**
 
-No existe un sistema de nombres reservados, por lo que hay que verificar mediante el ID de la moneda de recibir los BTCL correctos. 
+Mediante Bitcoin Latino se extiende el protocolo de bitcoin para ser usado en los micropagos ya que el costo por transacción no supera los 20 centavos de dólar, además existen muchísimos recursos y wallets donde guardarlos; sin embargo, no existe un sistema de nombre reservado por lo que hay que asegurarse de recibir los BTCL correctos mediante el ID de la moneda:
 
-Mediante Bitcoin Latino se extiende el protocolo de bitcoin en 100x, es decir se incrementará en 2.100.000.000 de unidades BTCL para que haya disponibilidad para todo el mundo ya que si tenemos en cuenta que la población del mundo es de más de 8 mil millones de personas BTCL estaría distribuido a una tasa óptima de aproximadamente 0.25 BTCL por persona o de 3 BTCL por persona para la comunidad de Latinoamérica. 
+### ID de BTCL: 20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a
 
-Qué problemas resolverá Bitcoin Latino 
+
+## ¿Qué problemas resolverá Bitcoin Latino?
 
 Aunque la visión inicial de bitcoin era atacar la pobreza y lograr un comercio internacional más justo y equitativo y una mayor inclusión financiera, este sueño no ha sido posible porque debido a su complejidad técnica bitcoin fue inicialmente de dominio de los altos informáticos e ingenieros que rápidamente aprovecharon su valorización y luego ha sido de dominio de las altas compañías tecnológicas que son las que se aprovechan de la minería debido al aumento de la complejidad con sus máquinas especiales de minería y luego excluyó aún más al quedar concentrado en los mercados financieros, plataformas de trading y mercados especulativos. 
 
