@@ -56,7 +56,7 @@ La recompensa por minar Bitcoin Latino iniciará en 400 BTCL por bloque y se red
 
  
 
- 
+ ![Image](src)
 
 Gráfico 1. Calendario de recompensas por minar BTCL 
 
