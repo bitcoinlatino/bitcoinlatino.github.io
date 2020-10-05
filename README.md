@@ -23,7 +23,7 @@ Es un sistema completamente open source o de código abierto donde se utiliza la
 
 Mediante Bitcoin Latino se extiende el protocolo de bitcoin para ser usado en los micropagos ya que el costo por transacción no supera los 20 centavos de dólar, además existen muchísimos recursos y wallets donde guardarlos; sin embargo, no existe un sistema de nombre reservado por lo que hay que asegurarse de recibir los BTCL correctos mediante el ID de la moneda:
 
-### ID de BTCL: 20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a
+### ID de BTCL: [20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a](https://explorer.bitcoin.com/bch/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)
 
 
 ## ¿Qué problemas resolverá Bitcoin Latino?
