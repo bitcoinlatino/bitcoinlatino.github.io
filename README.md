@@ -19,7 +19,7 @@ Bitcoin Latino BTCL es una moneda virtual descentralizada completamente entre pa
 
 Las transacciones en BTCL se procesan completamente onchain en el top de la blockchain de Bitcoin Cash mediante el sistema especial de registro OP_RETURN y se pueden observar en el explorador de bloques especial del **[Simple Ledger Protocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** y en el Explorer de bitcoin **[Bitcoin.com.](https://explorer.bitcoin.com/bch/tx/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)**
 
-Es un sistema completamente open source o de código abierto donde se utiliza la prueba de trabajo o **"Proof of Work"** mediante un simple pero novedoso bitcoin scrypt para la minería de nuevas monedas mediante el **"contrato covenant_1 de Mist"**. Cualquiera puede verificar y auditar el código en el repositorio abierto de **[github.](https://github.com/bitcoinlatino)**
+Es un sistema completamente open source o de código abierto donde se utiliza la prueba de trabajo o **"Proof of Work"** mediante un simple pero novedoso bitcoin scrypt para la minería de nuevas monedas mediante el **"contrato covenant_1 de Mist"**. Cualquiera puede verificar y auditar el código en el repositorio abierto de **[github.](https://github.com/blockparty-sh/mist-miner)**
 
 Mediante Bitcoin Latino se extiende el protocolo de bitcoin para ser usado en los micropagos ya que el costo por transacción no supera los 20 centavos de dólar, además existen muchísimos recursos y wallets donde guardarlos; sin embargo, no existe un sistema de nombre reservado por lo que hay que asegurarse de recibir los BTCL correctos mediante el ID de la moneda:
 
