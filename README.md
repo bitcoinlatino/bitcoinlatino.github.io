@@ -67,7 +67,7 @@ Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** 
 
 - **[Blockchain Explorer](##):** Puedes consultar en cualquier momento y en tiempo real el registro de las transacciones de todo lo que sucede con la red de Bitcoin Latino en sus libros de contabilidad públicos en **[SimpleLedgerProtocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** y en **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)**.
 
-- **[Cajero Electrónico](##):** El Cajero Electrónico de General Bytes **[BATMThree](https://www.generalbytes.com/es/productos/batmthree)** es compatible con el protocolo SLP de Bitcoin Latino, por lo que cualquier persona o empresa del mundo lo puede usar para iniciar su proyecto en Bitcoin Latino y ganar las comisiones de la red para el cambio de BTCL a efectivo y viceversa. Postdata: hay que hacer la integración tecnológica de BTCL en el repositorio abierto de github de **[General Bytes](https://github.com/GENERALBYTESCOM/batm_public)**.
+- **[Cajero Electrónico](##):** El Cajero Electrónico de General Bytes **[BATMThree](https://www.generalbytes.com/es/productos/batmthree)** es compatible con el protocolo SLP de Bitcoin Latino, por lo que cualquier persona o empresa del mundo lo puede usar para iniciar su proyecto en Bitcoin Latino y ganar las comisiones de la red para el cambio de BTCL a efectivo y viceversa. Postdata: hay que hacer la integración tecnológica de BTCL en el repositorio abierto de github de **[General Bytes](https://github.com/bitcoinlatino/batm_public)**.
 
 
 ## Minería de Bitcoin Latino 
