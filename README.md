@@ -1,4 +1,4 @@
-# BTCL Bitcoin Latino
+# BTCL Bitcoin Latino. Documento Blanco, 1 de octubre de 2020
 
 ## Introducción
 
@@ -71,8 +71,6 @@ Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** 
 
 
 ## Minería de Bitcoin Latino 
-
-Una vez finalizado el airdrop o la distribución de los BTCL en Telegram, que concluirá hasta cuando se entregue el último BTCL del total de airdrop de 1.260.000.000 de tokens BTCL, se iniciará la actualización del protocolo de BTCL transfiriendo el “minting baton” desde la “electron cash slp wallet” a una dirección baúl para que pueda ser minado mediante un simple lenguaje de scrypts de bitcoin y la prueba de trabajo o “proof of work”, siguiendo la metodología del protocolo de mistcoin7 y mazetoken fast-mine8. Esto es fundamental porque permitirá descentralizar la moneda BTCL y dará autonomía a la comunidad. Además, al establecer la minería de BTCL con programas de scrypts en el top de la cadena de bloques de bitcoin cash se permitirá la minería desde una sencilla PC o un smarthphone lo que no hará necesario especializados softwares ni equipos ni granjas de minería, aunque si eso sucede ya la comunidad de Latinoamérica se habrá beneficiado de ser los pioneros en reclamar los BTCL en el tubo madre del Mint Bot de telegram. 
 
 Para establecer los softwares, los scrypts, los comandos, las carpetas y todo lo relacionado con la minería de BTCL se ha realizado un fork o una copia del repositorio abierto de github mazetoken-miner; aquí un enlace directo al repositorio de minería de github de Bitcoin Latino github/maze-miner. 
 
