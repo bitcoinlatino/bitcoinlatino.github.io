@@ -38,43 +38,18 @@ Aunque la visión inicial de bitcoin era atacar la pobreza y lograr un comercio 
 
 * Además, podrán enviar, recibir y hacer pagos a otros usuarios miembros del grupo oficial de la comunidad de Bitcoin Latino [**@BitcoinLatinoCommunity**](https://t.me/BITCOIN_LATINO) y todo dentro del grupo sin salir de Telegram mediante el Mint Bot y lo mejor a un costo de **$0 las transacciones.**
 
-2. **BTCL puede ser minado através de un simple lenguaje de bitcoin scrypt lo que no hace necesario especializados software ni equipos de minería, lo que permitirá a usuarios sin conocimientos técnicos entrarse a la minería de BTCL con una sencilla computadora o un smartphone y una conexión a internet.
+2. **BTCL puede ser minado através de un simple lenguaje de bitcoin scrypt** lo que no hace necesario especializados software ni equipos de minería, lo que permitirá a usuarios sin conocimientos técnicos entrarse a la minería de BTCL con una sencilla computadora o un smartphone y una conexión a internet.
 
 3. **Fundación Bitcoin Latinoamérica:** Se creará la fundación para promocionar la moneda, realizar campañas publicitarias y de marketing, contratar a los ingenieros de desarrollo y empleados y muy especialmente para la integración de la moneda BTCL en los cajeros [**BATM de General Bytes**](https://news.bitcoin.com/general-bytes-atm-developers-add-two-way-support-for-bitcoin-cash-based-slp-tokens/). Esta fundación se encargará de desplegar los primeros cajeros BATM en las principales ciudades de Latinoamérica y del mundo para que los usuarios pueden convertir a dinero local y viceversa sus BTCL.
 
 4. **BTCL es totalmente anónimo y sin registros:** Los BTCL pueden ser guardados en muchas wallets compatibles, que al ser de nos custodia no te solicitarán tu información personal, pero eso sí deberás manejar y guardar tu **frase semilla de 12 palabras** para asegurarte de recuperar tu billetera en caso de pérdida o robo del dispositivo donde la tengas instalada tu wallet.
 
-  4.1. hfhfh
 
-Minería de Bitcoin Latino 
+## Recursos y Wallets disponibles
 
-Una vez finalizado el airdrop o la distribución de los BTCL en Telegram, que concluirá hasta cuando se entregue el último BTCL del total de airdrop de 1.260.000.000 de tokens BTCL, se iniciará la actualización del protocolo de BTCL transfiriendo el “minting baton” desde la “electron cash slp wallet” a una dirección baúl para que pueda ser minado mediante un simple lenguaje de scrypts de bitcoin y la prueba de trabajo o “proof of work”, siguiendo la metodología del protocolo de mistcoin7 y mazetoken fast-mine8. Esto es fundamental porque permitirá descentralizar la moneda BTCL y dará autonomía a la comunidad. Además, al establecer la minería de BTCL con programas de scrypts en el top de la cadena de bloques de bitcoin cash se permitirá la minería desde una sencilla PC o un smarthphone lo que no hará necesario especializados softwares ni equipos ni granjas de minería, aunque si eso sucede ya la comunidad de Latinoamérica se habrá beneficiado de ser los pioneros en reclamar los BTCL en el tubo madre del Mint Bot de telegram. 
+Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** con el protocolo SLP existen muchísimos recursos tecnológicos compatibles para poder operar con BTCL. 
 
-Para establecer los softwares, los scrypts, los comandos, las carpetas y todo lo relacionado con la minería de BTCL se ha realizado un fork o una copia del repositorio abierto de github mazetoken-miner; aquí un enlace directo al repositorio de minería de github de Bitcoin Latino github/maze-miner. 
-
-Por minar quedaran entonces otros 420 millones de BTCL que equivalen al 20% restantes del total de 2.100.000.000 millones de unidades de BTCL acuñadas inicialmente. 
-
-La recompensa por minar Bitcoin Latino iniciará en 400 BTCL por bloque y se reducirá cada 4320 bloques a una razón constante, como se puede apreciar en el gráfico 1. 
-
- 
-
- ![Image](/docs/Recompensa_BTCL.png)
-
-Gráfico 1. Calendario de recompensas por minar BTCL 
-
- 
-
-Cuando se terminen de minar los 420 millones de BTCL hasta completar el total de 2.100.000.000 de unidades, nuestra propuesta como Fundación Bitcoin Latinoamérica será mantener el suministro de BTCL a una tasa del 1% anual, pero será la comunidad quien tome la decisión del rumbo que tomará la red BTCL por mayoría de votos. 
-
-Para detalles técnicos del airdrop de BTCL en telegram y el programa de minería, así como la integración de BTCL en los ATM de General Bytes, visite nuestro perfil de github en BitcoinLatino. 
-
- 
-
-Recursos tecnológicos disponibles para Bitcoin Latino 
-
-Al BTCL ser de código abierto y estar programado en el top de bitcoin cash con el protocolo SLP existen muchísimos recursos tecnológicos compatibles para poder operar con BTCL. 
-
-Billetera virtual dentro del perfil de Telegram de cada usuario con el Mint Bot @MintSLPBot 
+- Billetera virtual dentro del perfil de Telegram de cada usuario con el Mint Bot [**@MintSLPBot**](@MintSLPBot)
 
 Para acceder a la billetera virtual los usuarios entran a un chat privado con el Mint Bot y tipean los comandos: a 
 
@@ -96,6 +71,25 @@ Para enviar y recibir BTCL sin salir de telegram se unen al grupo oficial de la 
 
 Todas estas transacciones salen a un costo de $0. 
 
+
+Minería de Bitcoin Latino 
+
+Una vez finalizado el airdrop o la distribución de los BTCL en Telegram, que concluirá hasta cuando se entregue el último BTCL del total de airdrop de 1.260.000.000 de tokens BTCL, se iniciará la actualización del protocolo de BTCL transfiriendo el “minting baton” desde la “electron cash slp wallet” a una dirección baúl para que pueda ser minado mediante un simple lenguaje de scrypts de bitcoin y la prueba de trabajo o “proof of work”, siguiendo la metodología del protocolo de mistcoin7 y mazetoken fast-mine8. Esto es fundamental porque permitirá descentralizar la moneda BTCL y dará autonomía a la comunidad. Además, al establecer la minería de BTCL con programas de scrypts en el top de la cadena de bloques de bitcoin cash se permitirá la minería desde una sencilla PC o un smarthphone lo que no hará necesario especializados softwares ni equipos ni granjas de minería, aunque si eso sucede ya la comunidad de Latinoamérica se habrá beneficiado de ser los pioneros en reclamar los BTCL en el tubo madre del Mint Bot de telegram. 
+
+Para establecer los softwares, los scrypts, los comandos, las carpetas y todo lo relacionado con la minería de BTCL se ha realizado un fork o una copia del repositorio abierto de github mazetoken-miner; aquí un enlace directo al repositorio de minería de github de Bitcoin Latino github/maze-miner. 
+
+Por minar quedaran entonces otros 420 millones de BTCL que equivalen al 20% restantes del total de 2.100.000.000 millones de unidades de BTCL acuñadas inicialmente. 
+
+La recompensa por minar Bitcoin Latino iniciará en 400 BTCL por bloque y se reducirá cada 4320 bloques a una razón constante, como se puede apreciar en el gráfico 1. 
+
  
 
-Monederos o billeteras.  
+ ![Image](/docs/Recompensa_BTCL.png)
+
+Gráfico 1. Calendario de recompensas por minar BTCL 
+
+Para detalles técnicos del airdrop de BTCL en telegram y el programa de minería, así como la integración de BTCL en los ATM de General Bytes, visite nuestro perfil de github en BitcoinLatino. 
+
+
+
+ 
