@@ -49,7 +49,7 @@ Aunque la visión inicial de bitcoin era atacar la pobreza y lograr un comercio 
 
 Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** con el protocolo SLP existen muchísimos recursos tecnológicos compatibles para poder operar con BTCL. 
 
-- **Billetera Virtual en Telegram:** Maneja tus BTCL en tu Billetera virtual dentro del perfil de Telegram que cada usuario posee con el Mint Bot [**@MintSLPBot**](https://mintslp.com/). Para acceder a la billetera virtual los usuarios entran a un chat privado con el Mint Bot y tipean **“start”** para iniciar el Bot y ver los comandos disponibles. Sin  registros, sin nombres, cero fricción, sin pedir permisos, mueve y transfiere tus BTCL instantáneamente a cualquier parte del mundo **GRATIS**.
+- **[Billetera Virtual en Telegram](##):** Maneja tus BTCL en tu Billetera virtual dentro del perfil de Telegram que cada usuario posee con el Mint Bot [**@MintSLPBot**](https://mintslp.com/). Para acceder a la billetera virtual los usuarios entran a un chat privado con el Mint Bot y tipean **“start”** para iniciar el Bot y ver los comandos disponibles. Sin  registros, sin nombres, cero fricción, sin pedir permisos, mueve y transfiere tus BTCL instantáneamente a cualquier parte del mundo **GRATIS**.
 
 - **[Electron Cash Wallet SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/):** Esta es la principal billetera para PC que implementa el **Simple Ledger Protocol o SLP**; tiene que ser SLP Edition. Viene para woindows, linux y Mac, es completamente de código abierto.
 
@@ -65,9 +65,9 @@ Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** 
 
 - **[Empresa Asesora Tokenizando SAS](##):** Esta empresa con base en Cartagena, Colombia te brinda toda la asesoría necesaria para que aprendas toda la tecnología de Bitcoin Latino y Bitcoin Cash y comiences a desarrollar tu propia moneda basada en Bitcoin Cash o otro tipo de aplicaciones. Ir a **[Tokenizando SAS](https://tokenizando.wixsite.com/tokenizando)**
 
-- **Blockchain Explorer:** Puedes consultar en cualquier momento y en tiempo real el registro de las transacciones de todo lo que sucede con la red de Bitcoin Latino en sus libros de contabilidad públicos en **[SimpleLedgerProtocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** y en **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)**.
+- **[Blockchain Explorer](##):** Puedes consultar en cualquier momento y en tiempo real el registro de las transacciones de todo lo que sucede con la red de Bitcoin Latino en sus libros de contabilidad públicos en **[SimpleLedgerProtocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** y en **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)**.
 
-- **Cajero Electrónico:** El Cajero Electrónico de General Bytes **[BATMThree](https://www.generalbytes.com/es/productos/batmthree)** es compatible con el protocolo SLP de Bitcoin Latino, por lo que cualquier persona o empresa del mundo lo puede usar para iniciar su proyecto en Bitcoin Latino y ganar las comisiones de la red para el cambio de BTCL a efectivo y viceversa. Postdata: hay que hacer la integración tecnológica de BTCL en el repositorio abierto de github de **[General Bytes](https://github.com/GENERALBYTESCOM/batm_public)**.
+- **[Cajero Electrónico](##):** El Cajero Electrónico de General Bytes **[BATMThree](https://www.generalbytes.com/es/productos/batmthree)** es compatible con el protocolo SLP de Bitcoin Latino, por lo que cualquier persona o empresa del mundo lo puede usar para iniciar su proyecto en Bitcoin Latino y ganar las comisiones de la red para el cambio de BTCL a efectivo y viceversa. Postdata: hay que hacer la integración tecnológica de BTCL en el repositorio abierto de github de **[General Bytes](https://github.com/GENERALBYTESCOM/batm_public)**.
 
 
 ## Minería de Bitcoin Latino 
