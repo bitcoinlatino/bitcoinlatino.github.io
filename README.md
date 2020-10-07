@@ -34,7 +34,7 @@ Aunque la visión inicial de bitcoin era atacar la pobreza y lograr un comercio 
 
 1. **Billetera en Telegram y Faucet:** Se realizó un preminado de 1 Millón de BTCL y se colocaron en un faucet o tubo de distribución en la aplicación de mensajería en la nube telegram mediante un robot de alta tecnología. El robot que se encargará de distribuir los BTCL, priorizando a la comunidad latina, es el **[Mint Bot](https://mintslp.com/)**. Este robot o bot tiene incorporada una billetera virtual para que los usuarios administren sus BTCL directamente en su perfil de Telegram. El Mint Bot abrirá el tubo madre de los BTCL desde el grupo [**@Bitcoin_Latino_Faucet**](https://t.me/BITCOIN_LATINO_Faucet) para realizar el faucet de los BTCL.
 
-  * Cada usuario podrá recibir al día un máximo de 0.5 BTCL. Los usuarios una vez que se unan al grupo del faucet de Bitcoin Latino en Telegram tipean el mensaje **“claim”** y el Mint Bot les entrega **0.5 BTCL cada 24 horas**. Los BTCL se depositan directamente en la billetera virtual que cada usuario posee dentro de Telegram. Para acceder a la billetera los usuarios entran a un chat privado con el Mint Bot donde pueden consultar su balance, dirección de depósito y también para hacer retiros a otras wallet fuera de telegram. 
+* Cada usuario podrá recibir al día un máximo de 0.5 BTCL. Los usuarios una vez que se unan al grupo del faucet de Bitcoin Latino en Telegram tipean el mensaje **“claim”** y el Mint Bot les entrega **0.5 BTCL cada 24 horas**. Los BTCL se depositan directamente en la billetera virtual que cada usuario posee dentro de Telegram. Para acceder a la billetera los usuarios entran a un chat privado con el Mint Bot donde pueden consultar su balance, dirección de depósito y también para hacer retiros a otras wallet fuera de telegram. 
 
 * Además, podrán enviar, recibir y hacer pagos a otros usuarios miembros del grupo oficial de la comunidad de Bitcoin Latino [**@BitcoinLatinoCommunity**](https://t.me/BITCOIN_LATINO) y todo dentro del grupo sin salir de Telegram mediante el Mint Bot y lo mejor a un costo de **$0 las transacciones.**
 
@@ -45,7 +45,7 @@ Aunque la visión inicial de bitcoin era atacar la pobreza y lograr un comercio 
 4. **BTCL es totalmente anónimo y sin registros:** Los BTCL pueden ser guardados en muchas wallets compatibles, que al ser de nos custodia no te solicitarán tu información personal, pero eso sí deberás manejar y guardar tu **frase semilla de 12 palabras** para asegurarte de recuperar tu billetera en caso de pérdida o robo del dispositivo donde tengas instalada tu wallet.
 
 
-## Recursos Tecnol+ogicos y Wallets disponibles
+## Recursos Tecnológicos y Wallets disponibles
 
 Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** con el protocolo SLP existen muchísimos recursos tecnológicos compatibles para poder operar con BTCL. 
 
@@ -53,9 +53,9 @@ Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** 
 
 - **[Electron Cash Wallet SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/):** Esta es la principal billetera para PC que implementa el **Simple Ledger Protocol o SLP**; tiene que ser SLP Edition. Viene para woindows, linux y Mac, es completamente de código abierto.
 
-- **Wallet [Bitcoin.com**](https://wallet.bitcoin.com/es/): Esta es una wallet de no custodia para enviar y recibir BTCL a costo marginal, pagando la fee o comisión por transacción en Bitcoin Cash.
+- **[Wallet Bitcoin.com](https://wallet.bitcoin.com/es/)**: Esta es una wallet de no custodia para enviar y recibir BTCL a costo marginal, pagando la fee o comisión por transacción en Bitcoin Cash.
 
-- **Billetera [Badger](https://badger.bitcoin.com/)**: Esta billetera soporta los BTCL y viene para todos los dispositivos, incluso tiene una extensión para Chrome. También, al igual que la mayoría de los recursos tecnológicos de bitcoin cash, es una billetera descentralizada o de no custodia.
+- **[Billetera Badger](https://badger.bitcoin.com/)**: Esta billetera soporta los BTCL y viene para todos los dispositivos, incluso tiene una extensión para Chrome. También, al igual que la mayoría de los recursos tecnológicos de bitcoin cash, es una billetera descentralizada o de no custodia.
 
 - **[Wallet Fullstack:](https://wallet.fullstack.cash/#)** Esta es una billetera web de bitcoin cash, para explorar la deep web con su versión **[TOR](http://puh2fyj2ly5b4p5m.onion/)**.
 
