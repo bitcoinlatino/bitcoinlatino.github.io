@@ -42,37 +42,35 @@ Aunque la visión inicial de bitcoin era atacar la pobreza y lograr un comercio 
 
 3. **Fundación Bitcoin Latinoamérica:** Se creará la fundación para promocionar la moneda, realizar campañas publicitarias y de marketing, contratar a los ingenieros de desarrollo y empleados y muy especialmente para la integración de la moneda BTCL en los cajeros [**BATM de General Bytes**](https://news.bitcoin.com/general-bytes-atm-developers-add-two-way-support-for-bitcoin-cash-based-slp-tokens/). Esta fundación se encargará de desplegar los primeros cajeros BATM en las principales ciudades de Latinoamérica y del mundo para que los usuarios pueden convertir a dinero local y viceversa sus BTCL.
 
-4. **BTCL es totalmente anónimo y sin registros:** Los BTCL pueden ser guardados en muchas wallets compatibles, que al ser de nos custodia no te solicitarán tu información personal, pero eso sí deberás manejar y guardar tu **frase semilla de 12 palabras** para asegurarte de recuperar tu billetera en caso de pérdida o robo del dispositivo donde la tengas instalada tu wallet.
+4. **BTCL es totalmente anónimo y sin registros:** Los BTCL pueden ser guardados en muchas wallets compatibles, que al ser de nos custodia no te solicitarán tu información personal, pero eso sí deberás manejar y guardar tu **frase semilla de 12 palabras** para asegurarte de recuperar tu billetera en caso de pérdida o robo del dispositivo donde tengas instalada tu wallet.
 
 
-## Recursos y Wallets disponibles
+## Recursos Tecnol+ogicos y Wallets disponibles
 
 Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** con el protocolo SLP existen muchísimos recursos tecnológicos compatibles para poder operar con BTCL. 
 
-- Billetera virtual dentro del perfil de Telegram de cada usuario con el Mint Bot [**@MintSLPBot**](@MintSLPBot)
+- **Billetera Virtual en Telegram:** Maneja tus BTCL en tu Billetera virtual dentro del perfil de Telegram que cada usuario posee con el Mint Bot [**@MintSLPBot**](https://mintslp.com/). Para acceder a la billetera virtual los usuarios entran a un chat privado con el Mint Bot y tipean **“start”** para iniciar el Bot y ver los comandos disponibles. Sin  registros, sin nombres, cero fricción, sin pedir permisos, mueve y transfiere tus BTCL instantáneamente a cualquier parte del mundo **GRATIS**.
 
-Para acceder a la billetera virtual los usuarios entran a un chat privado con el Mint Bot y tipean los comandos: a 
+- **[Electron Cash Wallet SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/):** Esta es la principal billetera para PC que implementa el **Simple Ledger Protocol o SLP**; tiene que ser SLP Edition. Viene para woindows, linux y Mac, es completamente de código abierto.
 
-“start” para iniciar el Bot y ver los comandos disponibles. 
+- **Wallet [Bitcoin.com**](https://wallet.bitcoin.com/es/): Esta es una wallet de no custodia para enviar y recibir BTCL a costo marginal, pagando la fee o comisión por transacción en Bitcoin Cash.
 
-“deposit” para consultar su dirección para depositar fondos. 
+- **Billetera [Badger](https://badger.bitcoin.com/)**: Esta billetera soporta los BTCL y viene para todos los dispositivos, incluso tiene una extensión para Chrome. También, al igual que la mayoría de los recursos tecnológicos de bitcoin cash, es una billetera descentralizada o de no custodia.
 
-“balance” para chequear los fondos almacenados. 
+- **[Wallet Fullstack:](https://wallet.fullstack.cash/#)** Esta es una billetera web de bitcoin cash, para explorar la deep web con su versión **[TOR](http://puh2fyj2ly5b4p5m.onion/)**.
 
-“withdraw id-BTCL cantidad dirección” para enviar fondos en BTCL a una dirección específica de otra wallet. Recuerde que el id-BTCL es el identificador de la moneda BTCL dentro de la blockchain de bitcoin cash y corresponde a: 75757575858585859900fhfhh. Cantidad es lo que va a enviar 500, 50000, 1000 etc. Y dirección es la address de la pesona o billetera a donde va a enviar los fondos. 
+- **[Datáfono para BTCL bchpls](https://bchpls.io/):** Bitcoin Cash Punto de Venta. Esta aplicación te permite crear un datáfono sencillo para empezar a recibir pagos en BTCL en tu tienda o negocio. El datáfono se carga en cualquier PC, celular o tablet que tenga incorporado un buscador web como Chrome, Mozilla u otros, mediante un simple link o lectura de código QR.
 
-Para reclamar BTCL del tubo madre entran al grupo del facuet de BTCL @BitcoinLatinoFaucet y cumplen con el captcha de verificación de spam para unirse al grupo y tipean: 
+- **[Pagos en Línea en WooCommerce](https://wordpress.org/plugins/slp-payments-for-woocommerce/):** Este plugin te permite aceptar BTCL, Bitcoin Cash y cualquier token basado en SLP en tu tienda en línea desarrollada con [WooCommerce](https://woocommerce.com/?aff=17277), la plataforma para construir tiendas en línea con más usuarios en el mundo.
 
-“claim” para reclamar 0.0625 BTCL cada 3 horas. El Mint Bot los deposita automáticamente en su billetera virtual. 
+- **Empresa Asesora Tokenizando SAS:** Esta empresa con base en Cartagena, Colombia te brinda toda la asesoría necesaria para que aprendas toda la tecnología de Bitcoin Latino y Bitcoin Cash y comiences a desarrollar tu propia moneda basada en Bitcoin Cash o otro tipo de aplicaciones. Ir a **[Tokenizando SAS](https://tokenizando.wixsite.com/tokenizando)**
 
-Para enviar y recibir BTCL sin salir de telegram se unen al grupo oficial de la comunidad @BitcoinLatinoCommunity y también deben cumplir el captcha de verificación de spam. Y tipean los comandos: 
+- **Blockchain Explorer:** Puedes consultar en cualquier momento y en tiempo real el registro de las transacciones de todo lo que sucede con la red de Bitcoin Latino en sus libros de contabilidad públicos en **[SimpleLedgerProtocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** y en **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)**.
 
-“send cantidad BTCL” replicando el mensaje del usuario al cual le enviarán los BTCL y recuerden cambiar cantidad por el valor a enviar. 
-
-Todas estas transacciones salen a un costo de $0. 
+- **Cajero Electrónico:** El Cajero Electrónico de General Bytes **[BATMThree](https://www.generalbytes.com/es/productos/batmthree)** es compatible con el protocolo SLP de Bitcoin Latino, por lo que cualquier persona o empresa del mundo lo puede usar para iniciar su proyecto en Bitcoin Latino y ganar las comisiones de la red para el cambio de BTCL a efectivo y viceversa. Postdata: hay que hacer la integración tecnológica de BTCL en el repositorio abierto de github de **[General Bytes](https://github.com/GENERALBYTESCOM/batm_public)**.
 
 
-Minería de Bitcoin Latino 
+## Minería de Bitcoin Latino 
 
 Una vez finalizado el airdrop o la distribución de los BTCL en Telegram, que concluirá hasta cuando se entregue el último BTCL del total de airdrop de 1.260.000.000 de tokens BTCL, se iniciará la actualización del protocolo de BTCL transfiriendo el “minting baton” desde la “electron cash slp wallet” a una dirección baúl para que pueda ser minado mediante un simple lenguaje de scrypts de bitcoin y la prueba de trabajo o “proof of work”, siguiendo la metodología del protocolo de mistcoin7 y mazetoken fast-mine8. Esto es fundamental porque permitirá descentralizar la moneda BTCL y dará autonomía a la comunidad. Además, al establecer la minería de BTCL con programas de scrypts en el top de la cadena de bloques de bitcoin cash se permitirá la minería desde una sencilla PC o un smarthphone lo que no hará necesario especializados softwares ni equipos ni granjas de minería, aunque si eso sucede ya la comunidad de Latinoamérica se habrá beneficiado de ser los pioneros en reclamar los BTCL en el tubo madre del Mint Bot de telegram. 
 
