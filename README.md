@@ -63,7 +63,7 @@ Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** 
 
 - **[Pagos en Línea en WooCommerce](https://wordpress.org/plugins/slp-payments-for-woocommerce/):** Este plugin te permite aceptar BTCL, Bitcoin Cash y cualquier token basado en SLP en tu tienda en línea desarrollada con [WooCommerce](https://woocommerce.com/?aff=17277), la plataforma para construir tiendas en línea con más usuarios en el mundo.
 
-- **Empresa Asesora Tokenizando SAS:** Esta empresa con base en Cartagena, Colombia te brinda toda la asesoría necesaria para que aprendas toda la tecnología de Bitcoin Latino y Bitcoin Cash y comiences a desarrollar tu propia moneda basada en Bitcoin Cash o otro tipo de aplicaciones. Ir a **[Tokenizando SAS](https://tokenizando.wixsite.com/tokenizando)**
+- **[Empresa Asesora Tokenizando SAS](##):** Esta empresa con base en Cartagena, Colombia te brinda toda la asesoría necesaria para que aprendas toda la tecnología de Bitcoin Latino y Bitcoin Cash y comiences a desarrollar tu propia moneda basada en Bitcoin Cash o otro tipo de aplicaciones. Ir a **[Tokenizando SAS](https://tokenizando.wixsite.com/tokenizando)**
 
 - **Blockchain Explorer:** Puedes consultar en cualquier momento y en tiempo real el registro de las transacciones de todo lo que sucede con la red de Bitcoin Latino en sus libros de contabilidad públicos en **[SimpleLedgerProtocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** y en **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)**.
 
