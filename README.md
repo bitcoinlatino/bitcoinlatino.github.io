@@ -75,16 +75,16 @@ Al BTCL ser de código abierto y estar programado en el **`top de Bitcoin Cash`*
 
 ## Minería de Bitcoin Latino
 
-Bitcoin Latino utiliza un novedoso Bitcoin Scrypt para la minería de nuevos BTCL, introducido por primer vez por el projecto **[Mist](https://mistcoin.org/)**. El scrypt es en un full contrato covenant que se encarga de validar las **`soluciones de minería, programar la recompensa por bloque y mantener sincronizada la altura del token BTCL con la blockchain de Bitcoin Cash.`** En mist se desarrollaron 4 contratos covenant pero el que usamos en BTCL es el **`Covenant_1`** compilado en la variable **`MINER_COVENANT_1`** del archivo **.env** de la carpeta del minero completo. Ir al repositorio de **[minería de BTCL](https://github.com/bitcoinlatino/mist-miner/blob/master/README.md)**.
+Bitcoin Latino utiliza un novedoso Bitcoin Scrypt para la minería de nuevos BTCL, introducido por primer vez por el proyecto **[Mist](https://mistcoin.org/)**. El scrypt es en un full contrato covenant que se encarga de validar las **`soluciones de minería, programar la recompensa por bloque y mantener sincronizada la altura del token BTCL con la blockchain de Bitcoin Cash.`** En mist se desarrollaron 4 contratos covenant pero el que usamos en BTCL es el **`Covenant_1`** compilado en la variable **`MINER_COVENANT_1`** del archivo **.env** de la carpeta del minero completo. Ir al repositorio de **[minería de BTCL](https://github.com/bitcoinlatino/mist-miner/blob/master/README.md)**.
 
 **`MINER_COVENANT_V1="5779820128947f777601207f75597982012c947f757601687f777678827758947 f7576538b7f77765c7982777f011179011179ad011179828c7f756079a8011279bb011479815e7981788c8 8765b79968b0114795e795279965480880400000000011579bc7e0112790117797eaa765f797f757681008 854011a797e56797e170000000000000000396a04534c50000101044d494e54200113797e030102087e547 97e0c22020000000000001976a914011879a97e0288ac7e0b220200000000000017a9145379a97e01877e5 27952797e787eaa607988587901127993b175516b6d6d6d6d6d6d6d6d6d6d6d6d6d6d6d6c"`**
 
-La recompensa por minar Bitcoin Latino iniciará en **`800 BTCL por bloque`** y se reducirá cada 4320 bloques a una razón constante, como se puede apreciar en el gráfico 1. 
+La recompensa por minar Bitcoin Latino iniciará en **`800 BTCL por bloque`** y se reducirá cada 4320 bloques a una razón constante, como se puede apreciar en el **`gráfico 1.`** 
 
 ![Image](/docs/Recompensa_BTCL.png)
-**Gráfico 1.** Calendario de recompensas por minar BTCL
+**Gráfico 1.** `Calendario de recompensas por minar BTCL`
 
-La minería de BTCL finalizará cuando la variable de estado de **`altura del token`** tome el valor de **`2,147,483,648`**, lo cual ocurrirá en aproximadamente en el año 42877 si se el minero se mantiene minando bloques y en sincronía con la blockchain de Bitcoin Cash.
+La minería de BTCL finalizará cuando la variable de estado de **`altura del token`** tome el valor de **`2,147,483,648`**, lo cual ocurrirá aproximadamente en el año 42877 si el minero se mantiene minando bloques y en sincronía con la blockchain de Bitcoin Cash.
 
 El suministro máximo de BTCL se aproximará entonces a **`21.000.000 de BTCL`** de manera asintótica en un largo período de tiempo (43.000 años) como se puede apreciar en la siguiente tabla.
 
