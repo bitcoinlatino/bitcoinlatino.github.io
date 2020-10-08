@@ -65,18 +65,18 @@ Al BTCL ser de código abierto y estar programado en el top de **Bitcoin Cash** 
 
 - **[Botón de Pagos online](https://github.com/PayButton/paybutton):** Realiza un fork del repositorio abierto de **[PayButton](https://paybutton.org/)** para implementar un botón de pagos en BTCL en tu tienda online, página web, blog, redes sociales, entre otros canales. 
 
-- **[Empresa Asesora Tokenizando SAS](##):** Esta empresa con base en Cartagena, Colombia te brinda toda la asesoría necesaria para que aprendas toda la tecnología de Bitcoin Latino y Bitcoin Cash y comiences a desarrollar tu propia moneda basada en Bitcoin Cash o otro tipo de aplicaciones. Ir a **[Tokenizando SAS](https://tokenizando.wixsite.com/tokenizando)**
+- **[Empresa Asesora Tokenizando SAS](##):** Esta empresa con base en Cartagena, Colombia te brinda toda la asesoría necesaria para que aprendas toda la tecnología de Bitcoin Latino y Bitcoin Cash y comiences a desarrollar tu propia moneda basada en Bitcoin Cash u otro tipo de aplicaciones, como puntos de lealtad para tu negocio, tokenización de tiquetes y boletas, tiquetes para eventos, cualquier cosa susceptible de transferir su valor. Ir a **[Tokenizando SAS](https://tokenizando.wixsite.com/tokenizando)**
 
 - **[Blockchain Explorer](##):** Puedes consultar en cualquier momento y en tiempo real el registro de las transacciones de todo lo que sucede con la red de Bitcoin Latino en sus libros de contabilidad públicos en **[SimpleLedgerProtocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** y en **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)**.
 
 - **[Cajero Electrónico](##):** El Cajero Electrónico de General Bytes **[BATMThree](https://www.generalbytes.com/es/productos/batmthree)** es compatible con el protocolo SLP de Bitcoin Latino, por lo que cualquier persona o empresa del mundo lo puede usar para iniciar su proyecto en Bitcoin Latino y ganar las comisiones de la red para el cambio de BTCL a efectivo y viceversa. Postdata: hay que hacer la integración tecnológica de BTCL en el repositorio abierto de github de **[General Bytes](https://github.com/bitcoinlatino/batm_public)**.
 
 
-## Minería de Bitcoin Latino 
+## Minería de Bitcoin Latino
 
-Para establecer los softwares, los scrypts, los comandos, las carpetas y todo lo relacionado con la minería de BTCL se ha realizado un fork o una copia del repositorio abierto de github mazetoken-miner; aquí un enlace directo al repositorio de minería de github de Bitcoin Latino github/maze-miner. 
+´ Bitcoin Latino utiliza un novedoso Bitcoin Scrypt para la minería de nuevas monedas'
 
-Por minar quedaran entonces otros 420 millones de BTCL que equivalen al 20% restantes del total de 2.100.000.000 millones de unidades de BTCL acuñadas inicialmente. 
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 
 La recompensa por minar Bitcoin Latino iniciará en 400 BTCL por bloque y se reducirá cada 4320 bloques a una razón constante, como se puede apreciar en el gráfico 1. 
 
