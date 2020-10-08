@@ -31,7 +31,7 @@ Mediante Bitcoin Latino se extiende el protocolo de bitcoin para ser usado en lo
 
 Aunque la visión inicial de bitcoin era atacar la pobreza y lograr un comercio internacional más justo y equitativo y una mayor inclusión financiera, este sueño no ha sido posible porque debido a su complejidad técnica bitcoin fue inicialmente de dominio de los altos informáticos e ingenieros que rápidamente aprovecharon su valorización y luego ha sido de dominio de las altas compañías tecnológicas que son las que se aprovechan de la minería debido al aumento de la complejidad con sus máquinas especiales de minería y luego excluyó aún más al quedar concentrado en los mercados financieros, plataformas de trading y mercados especulativos. 
 
-**Bitcoin Latino** lo hará todo de una manera diferente para verdaderamente democratizar la tecnología de bitcoin y lograr una mayor inclusión financiera global:
+**`Bitcoin Latino`** lo hará todo de una manera diferente para verdaderamente democratizar la tecnología de bitcoin y lograr una mayor **`inclusión financiera global`**:
 
 1. **Billetera en Telegram y Faucet:** Se realizó un preminado de 1 Millón de BTCL y se colocaron en un faucet o tubo de distribución en la aplicación de mensajería en la nube telegram mediante un robot de alta tecnología. El robot que se encargará de distribuir los BTCL, priorizando a la comunidad latina, es el **[Mint Bot](https://mintslp.com/)**. Este robot o bot tiene incorporada una billetera virtual para que los usuarios administren sus BTCL directamente en su perfil de Telegram. El Mint Bot abrirá el tubo madre de los BTCL desde el grupo [**@Bitcoin_Latino_Faucet**](https://t.me/BITCOIN_LATINO_Faucet) para realizar el faucet de los BTCL.
 
@@ -77,7 +77,7 @@ Al BTCL ser de código abierto y estar programado en el **`top de Bitcoin Cash`*
 
 Bitcoin Latino utiliza un novedoso Bitcoin Scrypt para la minería de nuevos BTCL, introducido por primer vez por el projecto **[Mist](https://mistcoin.org/)**. El scrypt es en un full contrato covenant que se encarga de validar las **`soluciones de minería, programar la recompensa por bloque y mantener sincronizada la altura del token BTCL con la blockchain de Bitcoin Cash.`** En mist se desarrollaron 4 contratos covenant pero el que usamos en BTCL es el **`Covenant_1`** compilado en la variable **`MINER_COVENANT_1`** del archivo **.env** de la carpeta del minero completo. Ir al repositorio de **[minería de BTCL](https://github.com/bitcoinlatino/mist-miner/blob/master/README.md)**.
 
-**MINER_COVENANT_V1="5779820128947f777601207f75597982012c947f757601687f777678827758947 f7576538b7f77765c7982777f011179011179ad011179828c7f756079a8011279bb011479815e7981788c8 8765b79968b0114795e795279965480880400000000011579bc7e0112790117797eaa765f797f757681008 854011a797e56797e170000000000000000396a04534c50000101044d494e54200113797e030102087e547 97e0c22020000000000001976a914011879a97e0288ac7e0b220200000000000017a9145379a97e01877e5 27952797e787eaa607988587901127993b175516b6d6d6d6d6d6d6d6d6d6d6d6d6d6d6d6c"**
+**`MINER_COVENANT_V1="5779820128947f777601207f75597982012c947f757601687f777678827758947 f7576538b7f77765c7982777f011179011179ad011179828c7f756079a8011279bb011479815e7981788c8 8765b79968b0114795e795279965480880400000000011579bc7e0112790117797eaa765f797f757681008 854011a797e56797e170000000000000000396a04534c50000101044d494e54200113797e030102087e547 97e0c22020000000000001976a914011879a97e0288ac7e0b220200000000000017a9145379a97e01877e5 27952797e787eaa607988587901127993b175516b6d6d6d6d6d6d6d6d6d6d6d6d6d6d6d6c"`**
 
 
 
