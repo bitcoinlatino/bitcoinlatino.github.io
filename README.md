@@ -1,5 +1,5 @@
 # BTCL Bitcoin Latino
-`Documento Blanco, 1 de octubre de 2020`
+#### `Documento Blanco, 1 de octubre de 2020`
 
 ## Introducción
 
@@ -16,7 +16,7 @@ Con todos estos avances tecnológicos y teniendo la visión de verdadero efectiv
 
 ## ¿Qué es Bitcoin Latino? 
 
-Bitcoin Latino BTCL es una moneda virtual descentralizada completamente entre pares o **“peer to peer P2P”**, que ha sido creada mediante el protocolo SLP o Simple Ledger Protocol y el sistema de minería de scrypt de **[(Mistcoin)](https://mistcoin.org/)** y funciona en la blockchain de Bitcoin Cash. Ha sido incorporada en el bloque **655223** el día **1 de octubre de 2020** con el ID: **20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a** a las 9:46 am hora del atlántico. 
+Bitcoin Latino BTCL es una moneda virtual descentralizada completamente entre pares o **“peer to peer P2P”**, que ha sido creada mediante el protocolo SLP o Simple Ledger Protocol y el sistema de minería de scrypt de **[(Mistcoin)](https://mistcoin.org/)** y funciona en la blockchain de Bitcoin Cash. Ha sido incorporada en el bloque **655223** el día **1 de octubre de 2020** con el ID: **`20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a`** a las 9:46 am hora del atlántico. 
 
 Las transacciones en BTCL se procesan completamente onchain en el top de la blockchain de Bitcoin Cash mediante el sistema especial de registro OP_RETURN y se pueden observar en el explorador de bloques especial del **[Simple Ledger Protocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** y en el Explorer de bitcoin **[Bitcoin.com.](https://explorer.bitcoin.com/bch/tx/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)**
 
