@@ -60,7 +60,7 @@ Al BTCL ser de código abierto y estar programado en el **`top de Bitcoin Cash`*
 
 - **[Wallet Fullstack:](https://wallet.fullstack.cash/#)** Esta es una billetera web de bitcoin cash y SLP, para explorar la deep web con su versión **[TOR](http://puh2fyj2ly5b4p5m.onion/)**.
 
-- **[Datáfono para BTCL bchpls](https://bchpls.io/):** Bitcoin Cash Punto de Venta. Esta aplicación te permite crear un datáfono sencillo para empezar a recibir pagos en BTCL en tu tienda o negocio. El datáfono se carga en cualquier PC, celular o tablet que tenga incorporado un buscador web como Chrome, Mozilla u otros, mediante un simple link o lectura de código QR.
+- **[Datáfono para BTCL bchpls](https://bchpls.io/):** **`Bitcoin Cash Punto de Venta.`** Esta aplicación te permite crear un datáfono sencillo para empezar a recibir pagos en BTCL en tu tienda o negocio. El datáfono se carga en cualquier PC, celular o tablet que tenga incorporado un buscador web como Chrome, Mozilla u otros, mediante un simple link o lectura de código QR.
 
 - **[Pagos en Línea en WooCommerce](https://wordpress.org/plugins/slp-payments-for-woocommerce/):** Este plugin te permite aceptar BTCL, Bitcoin Cash y cualquier token basado en SLP en tu tienda en línea desarrollada con [WooCommerce](https://woocommerce.com/?aff=17277), la plataforma para construir tiendas en línea con más usuarios en el mundo.
 
