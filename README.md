@@ -82,10 +82,14 @@ La recompensa por minar Bitcoin Latino iniciará en 400 BTCL por bloque y se red
 
  
 ![Image](/docs/Recompensa_BTCL.png)
-**Gráfico 1.** *Calendario de recompensas por minar BTCL 
+**Gráfico 1.** Calendario de recompensas por minar BTCL 
 
 Para detalles técnicos del airdrop de BTCL en telegram y el programa de minería, así como la integración de BTCL en los ATM de General Bytes, visite nuestro perfil de github en BitcoinLatino. 
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
  
