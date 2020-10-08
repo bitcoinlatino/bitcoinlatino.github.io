@@ -1,5 +1,4 @@
-# BTCL Bitcoin Latino
-###### `Documento Blanco, 1 de octubre de 2020`
+# BTCL Bitcoin Latino ###### `Documento Blanco, 1 de octubre de 2020`
 
 ## Introducción
 
