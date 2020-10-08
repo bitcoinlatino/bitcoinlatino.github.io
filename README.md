@@ -90,12 +90,26 @@ El suministro máximo de BTCL se aproximará entonces a **`21.000.000 de BTCL`**
 
 Tiempo desde el Génesis | Suministro circulante Máximo
 ----------------------- | ----------------------------
-`Día 0  | 0 BTCL
+Día 0  | 0 BTCL
 Día 1  | 57.600 BTCL
 Día 30 | 1.728.000 BTCL
 Día 60 | 2.592.000 BTCL
-Día 30 | 1.728.000 BTCL
-Día 60 | 2.592.000 BTCL`
+Día 90 | 3.168.000 BTCL
+Día 150 | 3.945.000 BTCL
+Día 300 | 5.061.300 BTCL
+Año 1   | 5.400.000 BTCL
+Año 5   | 8.100.000 BTCL
+Año 50  | 12.080.000 BTCL
+Año 100 | 13.270.000 BTCL
+Año 1000  | 17.250.000 BTCL
+Año 42877 | 21.000.000 BTCL
+
+
+ahahshhs
+
+
+
+
 
 
 `
