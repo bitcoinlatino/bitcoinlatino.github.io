@@ -86,12 +86,18 @@ La recompensa por minar Bitcoin Latino iniciará en **`800 BTCL por bloque`** y 
 
 La minería de BTCL finalizará cuando la variable de estado de **`altura del token`** tome el valor de **`2,147,483,648`**, lo cual ocurrirá en aproximadamente en el año 42877 si se el minero se mantiene minando bloques y en sincronía con la blockchain de Bitcoin Cash.
 
-El suministro máximo de BTCL se aproximará entonces a **`21.000.000 de BTCL`** de manera asintótica en un largo período de tiempo (43.000 años) como se puede apreciar en la tabla 1.
+El suministro máximo de BTCL se aproximará entonces a **`21.000.000 de BTCL`** de manera asintótica en un largo período de tiempo (43.000 años) como se puede apreciar en la siguiente tabla.
 
 Tiempo desde el Génesis | Suministro circulante Máximo
 ----------------------- | ----------------------------
-Día 0 | 0 BTCL
-Día 1 | 57.600 BTCL
+`Día 0  | 0 BTCL
+Día 1  | 57.600 BTCL
+Día 30 | 1.728.000 BTCL
+Día 60 | 2.592.000 BTCL
+Día 30 | 1.728.000 BTCL
+Día 60 | 2.592.000 BTCL`
 
+
+`
 
  
