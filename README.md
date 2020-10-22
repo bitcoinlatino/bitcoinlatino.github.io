@@ -62,7 +62,7 @@ Al BTCL ser de código abierto y estar programado en el **`top de Bitcoin Cash`*
 
 - **[Wallet Fullstack:](https://wallet.fullstack.cash/#)** Esta es una billetera web de bitcoin cash y SLP, para explorar la deep web con su versión **[TOR](http://puh2fyj2ly5b4p5m.onion/)**.
 
-- **[Plataforma Social Memo:](https://memo.cash/profile/1MpJhRa8uWn8oiaQWVHixEUA1UVNFUDYDY)** Memo es una red social completamente descentralizada contruida sobre la blockchain de Bitcoin Cash; aquí tienes integrada una billetera para manejar tus BTCL, puedes publicar anuncios, escribir post completamente in censurables, intercambiar tokens SLP directamente peer to peer y entre otras muchas opciones.
+- **[Plataforma Social Memo:](https://memo.cash/profile/1MpJhRa8uWn8oiaQWVHixEUA1UVNFUDYDY)** Memo es una red social completamente descentralizada construida sobre la blockchain de Bitcoin Cash; aquí tienes integrada una billetera para manejar tus BTCL, puedes publicar anuncios, escribir post completamente incensurables, intercambiar tokens SLP directamente peer to peer, entre otras muchas opciones.
 
 - **[Datáfono para BTCL bchpls](https://bchpls.io/):** **`Bitcoin Cash Punto de Venta.`** Esta aplicación te permite crear un datáfono sencillo para empezar a recibir pagos en BTCL en tu tienda o negocio. El datáfono se carga en cualquier PC, celular o tablet que tenga incorporado un buscador web como Chrome, Mozilla u otros, mediante un simple link o lectura de código QR.
 
