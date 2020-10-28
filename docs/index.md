@@ -43,3 +43,33 @@ Although the initial vision of bitcoin was to attack poverty and achieve a faire
 3. **Bitcoin Latin America Foundation:** The foundation will be created to promote the currency, carry out advertising and marketing campaigns, hire development engineers and employees and especially for the integration of the BTCL currency in ATMs [**General Bytes BATM**](https://news.bitcoin.com/general-bytes-atm-developers-add-two-way-support-for-bitcoin-cash-based-slp-tokens/). This foundation will be in charge of deploying the first BATM ATMs in the main cities of Latin America and the world so that users can convert their BTCL to local money and vice-versa.
 
 4. **BTCL is totally anonymous and without records:** BTCL can be stored in many compatible wallets, which as non custodians will not ask for your personal information, but you will have to manage and save your **`seed phrase of 12 words`** to make sure you recover your wallet in case of loss or theft of the device where you have installed your wallet.
+
+## Technological Resources and Wallets available
+
+As BTCL is open source and programmed in the **`top of Bitcoin Cash`** with the SLP protocol, there are many compatible technological resources to be able to operate with BTCL.
+
+- **[Virtual Wallet in Telegram](##):** Manage your BTCL in your virtual Wallet within the Telegram profile that each user has with the Mint Bot [**@MintSLPBot**](https://mintslp.com/). To access the virtual wallet, users enter a private chat with the Mint Bot and type **`“ start ”`** to start the Bot and see the available commands. No registrations, no names, zero friction, without asking for permissions, move and transfer your BTCL instantly anywhere in the world ** `FREE`**.
+
+- **[Electron Cash Wallet SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/):** This is the main PC wallet that implements the **`Simple Ledger Protocol or SLP`**; it has to be SLP Edition. It comes for Windows, Linux and Mac, it is completely open source.
+
+- **[Wallet Bitcoin.com](https://wallet.bitcoin.com/es/)**: This is a non-custodial wallet to send and receive BTCL at marginal cost, paying the fee or commission per transaction in Bitcoin Cash.
+
+- **[Badger Wallet](https://badger.bitcoin.com/)**: This wallet supports BTCL and comes for all devices, it even has an extension for Chrome. Also, like most bitcoin cash tech resources, it is a decentralized or non-custodial wallet.
+
+- **[Zapit Wallet](https://play.google.com/store/apps/details?id=io.wallet.zapit&hl=es_CO)** One of the best BCH wallets and obviously BTCL. In the option ** `services / tokens / menu / virified tokens`** you can manage your BTCL.
+
+- **[Wallet Fullstack:](https://wallet.fullstack.cash/#)** This is a web wallet for bitcoin cash and SLP, to explore the deep web with its version **[TOR](http: //puh2fyj2ly5b4p5m.onion/)**.
+
+- **[Social Platform Memo:](https://memo.cash/profile/1MpJhRa8uWn8oiaQWVHixEUA1UVNFUDYDY)** Memo is a completely decentralized social network built on the Bitcoin Cash blockchain; Here you have a built-in wallet to manage your BTCL, you can publish ads, write completely incensible posts, exchange SLP tokens directly peer to peer, among many other options.
+
+- **[Dataphone for BTCL bchpls](https://bchpls.io/):** **`Bitcoin Cash Point of Sale.`** This application allows you to create a simple dataphone to start receiving payments in BTCL at your store or business. The dataphone is loaded on any PC, cell phone or tablet that has a built-in web browser such as Chrome, Mozilla or others, by means of a simple link or reading the QR code.
+
+- **[WooCommerce Online Payments](https://wordpress.org/plugins/slp-payments-for-woocommerce/):** This plugin allows you to accept BTCL, Bitcoin Cash and any SLP-based token on your online store developed with [WooCommerce](https://woocommerce.com/?aff=17277), the platform to build online stores with more users in the world.
+
+- **[Online Payment Button](https://github.com/PayButton/paybutton):** Make a fork of the open **[PayButton](https://paybutton.org/) repository** to implement a BTCL payment button in your online store, website, blog, social networks, among other channels.
+
+- **[Tokenizing SAS Advisory Company](##):** This company based in Cartagena, Colombia provides you with all the necessary advice so that you learn all the technology of Bitcoin Latino and Bitcoin Cash and start developing your own currency based in Bitcoin Cash or other types of applications, such as loyalty points for your business, tokenization of tickets and tickets, tickets for events, anything capable of transferring its value. Go to **[Tokenizing SAS](https://tokenizing.wixsite.com/tokenizing)**
+
+- **[Blockchain Explorer] (##):** You can consult at any time and in real time the record of transactions of everything that happens with the Bitcoin Latino network in its public ledgers at **[SimpleLedgerProtocol ](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** and in **[BitcoinExplorer] (https://explorer.bitcoin.com/bch/tx/20eb60e13347e2deb5d95e15ae8619179b3552ca02a)** and on **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20eb60e13347ca2/tx/20eb60e13347ca02deb5d95e13347a)**
+
+- **[Electronic Teller Machine](##):** The General Bytes Electronic Teller Machine **[BATMThree](https://www.generalbytes.com/en/products/batmthree)** is compatible with the SLP protocol of Bitcoin Latino, so that any person or company in the world can use it to start their project in Bitcoin Latino and earn the commissions of the network for the change from BTCL to cash and vice versa. Postscript: BTCL technology integration must be done in the **[General Bytes](https://github.com/bitcoinlatino/batm_public) github open repository**.
