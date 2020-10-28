@@ -16,10 +16,10 @@ With all these technological advances and having the vision of true electronic c
 
 ## What is Bitcoin Latino?
 
-Bitcoin Latino BTCL is a fully decentralized **“peer to peer P2P”** virtual currency, which has been created using the SLP or Simple Ledger Protocol and the **[(Mistcoin)] (https://mistcoin.org/)** and works on the Bitcoin Cash blockchain. It has been incorporated into the block **`655223`** on **`October 1, 2020`** with the ID: **`20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a`** at 9:46 am Pacific Time.
+Bitcoin Latino BTCL is a fully decentralized **“peer to peer P2P”** virtual currency, which has been created using the SLP or Simple Ledger Protocol and the **[(Mistcoin)](https://mistcoin.org/)** and works on the Bitcoin Cash blockchain. It has been incorporated into the block **`655223`** on **`October 1, 2020`** with the ID: **`20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a`** at 9:46 am Pacific Time.
 
 BTCL transactions are processed completely onchain on the top of the Bitcoin Cash blockchain through the special OP_RETURN registration system and can be observed in the special block explorer of **[Simple Ledger Protocol](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** and in the bitcoin Explorer **[Bitcoin.com.](https://explorer.bitcoin.com/bch/tx/20e8e13347a7b5d95e15ae8619179b3552ca02a)**.
 
-It is a completely open source or open source system where the proof of work or ** `" Proof of Work "` ** is used by means of a simple but novel bitcoin scrypt for the mining of new currencies by means of the ** `" covenant_1 contract of Mist "` **. Anyone can verify and audit the code in the open repository of ** [Mist.] (Https://mistcoin.org/) **
+It is a completely open source or open source system where the proof of work or ** `" Proof of Work "` ** is used by means of a simple but novel bitcoin scrypt for the mining of new currencies by means of the **`"covenant_1 contract of Mist"`**. Anyone can verify and audit the code in the open repository of **[Mist.](Https://mistcoin.org/)**.
 
 Through Bitcoin Latino, the bitcoin protocol is extended to be used in
