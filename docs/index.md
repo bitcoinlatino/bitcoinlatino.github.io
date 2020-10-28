@@ -82,7 +82,7 @@ Bitcoin Latino uses a novel Bitcoin Scrypt for mining new BTCL, first introduced
 
 The reward for mining Bitcoin Latino will start at **`800 BTCL per block`** and will decrease every 4320 blocks at a constant rate, as can be seen in **` graph 1.`**
 
-![Image](/docs/Reward_BTCL.png)
+![Image](Reward_BTCL.png)
 **Graph 1.** `Rewards schedule for mining BTCL`
 
 The BTCL mining will end when the state variable of **ʻtoken height´** takes the value of **`2,147,483,648`**, which will occur approximately in the year 42877 if the miner keeps mining blocks and in sync with the Bitcoin Cash blockchain.
