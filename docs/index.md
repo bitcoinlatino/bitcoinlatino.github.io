@@ -25,3 +25,21 @@ It is a completely open source or open source system where the proof of work or 
 Through Bitcoin Latino, the bitcoin protocol is extended to be used in micropayments since the cost per transaction does not exceed 20 cents, in addition there are many resources and wallets where to store them; however, there is no reserved naming system so make sure you receive the correct BTCLs via the right coin ID:
 
 ### ID de BTCL: [20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a](https://explorer.bitcoin.com/bch/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)
+
+## What problems will Bitcoin Latino solve?
+
+Although the initial vision of bitcoin was to attack poverty and achieve a fairer and more equitable international trade and greater financial inclusion, this dream has not been possible because due to its technical complexity bitcoin was initially the domain of senior computer scientists and engineers who quickly They took advantage of its valuation and then it has been the domain of the high technology companies that are the ones that take advantage of mining due to the increase in complexity with their special mining machines and then they excluded even more by being concentrated in the financial markets, platforms of trading and speculative markets.
+
+**`Bitcoin Latino`** will do it all in a different way to truly democratize bitcoin technology and achieve greater **`global financial inclusion`**:
+
+1. **Wallet in Telegram and Faucet:** 1 Million BTCL was pre-mined and placed in a faucet or distribution tube in the telegram cloud messaging application using a high-tech robot. The robot that will be in charge of distributing the BTCL, prioritizing the Latino community, is the **[Mint Bot](https://mintslp.com/)**. This robot or bot has a built-in virtual wallet for users to manage their BTCL directly on their Telegram profile. The Mint Bot will open the BTCL mother tube from the [**@Bitcoin_Latino_Faucet**](https://t.me/BITCOIN_LATINO_Faucet) group to perform the BTCL faucet.
+
+* Each user can receive a maximum of 1 BTCL per day. Once users join the Bitcoin Latino faucet group on Telegram, they type the message **`“claim”`** and the Mint Bot delivers **`1 BTCL every 24 hours`**. The BTCL is deposited directly into the virtual wallet that each user has within Telegram. To access the wallet, users enter a private chat with the Mint Bot where they can check their balance, deposit address and also to make withdrawals to other wallets outside of telegram.
+
+* In addition, they will be able to send, receive and make payments to other users that are members of the official group of the Bitcoin Latino community [**@ BitcoinLatinoCommunity**](https://t.me/BITCOIN_LATINO) and everything within the group without leaving Telegram through the Mint Bot and the best at a cost of **``$ 0 transactions.''**
+
+2. **BTCL can be mined through a simple bitcoin scrypt language** which does not require specialized software or mining equipment, which will allow users without technical knowledge to enter BTCL mining with a simple computer or a smartphone and an internet connection.
+
+3. **Bitcoin Latin America Foundation:** The foundation will be created to promote the currency, carry out advertising and marketing campaigns, hire development engineers and employees and especially for the integration of the BTCL currency in ATMs [**General Bytes BATM**](https://news.bitcoin.com/general-bytes-atm-developers-add-two-way-support-for-bitcoin-cash-based-slp-tokens/). This foundation will be in charge of deploying the first BATM ATMs in the main cities of Latin America and the world so that users can convert their BTCL to local money and vice-versa.
+
+4. **BTCL is totally anonymous and without records:** BTCL can be stored in many compatible wallets, which as non custodians will not ask for your personal information, but you will have to manage and save your **`seed phrase of 12 words`** to make sure you recover your wallet in case of loss or theft of the device where you have installed your wallet.
