@@ -22,4 +22,6 @@ BTCL transactions are processed completely onchain on the top of the Bitcoin Cas
 
 It is a completely open source or open source system where the proof of work or ** `" Proof of Work "` ** is used by means of a simple but novel bitcoin scrypt for the mining of new currencies by means of the **`"covenant_1 contract of Mist"`**. Anyone can verify and audit the code in the open repository of **[Mist.](Https://mistcoin.org/)**.
 
-Through Bitcoin Latino, the bitcoin protocol is extended to be used in
+Through Bitcoin Latino, the bitcoin protocol is extended to be used in micropayments since the cost per transaction does not exceed 20 cents, in addition there are many resources and wallets where to store them; however, there is no reserved naming system so make sure you receive the correct BTCLs via the right coin ID:
+
+### ID de BTCL: [20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a](https://explorer.bitcoin.com/bch/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)
