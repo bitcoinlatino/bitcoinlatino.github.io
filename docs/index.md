@@ -58,7 +58,7 @@ As BTCL is open source and programmed in the **`top of Bitcoin Cash`** with the 
 
 - **[Zapit Wallet](https://play.google.com/store/apps/details?id=io.wallet.zapit&hl=es_CO)** One of the best BCH wallets and obviously BTCL. In the option ** `services / tokens / menu / virified tokens`** you can manage your BTCL.
 
-- **[Wallet Fullstack:](https://wallet.fullstack.cash/#)** This is a web wallet for bitcoin cash and SLP, to explore the deep web with its version **[TOR](http: //puh2fyj2ly5b4p5m.onion/)**.
+- **[Wallet Fullstack:](https://wallet.fullstack.cash/#)** This is a web wallet for bitcoin cash and SLP, to explore the deep web with its version **[TOR](http://puh2fyj2ly5b4p5m.onion/)**.
 
 - **[Social Platform Memo:](https://memo.cash/profile/1MpJhRa8uWn8oiaQWVHixEUA1UVNFUDYDY)** Memo is a completely decentralized social network built on the Bitcoin Cash blockchain; Here you have a built-in wallet to manage your BTCL, you can publish ads, write completely incensible posts, exchange SLP tokens directly peer to peer, among many other options.
 
@@ -70,6 +70,42 @@ As BTCL is open source and programmed in the **`top of Bitcoin Cash`** with the 
 
 - **[Tokenizing SAS Advisory Company](##):** This company based in Cartagena, Colombia provides you with all the necessary advice so that you learn all the technology of Bitcoin Latino and Bitcoin Cash and start developing your own currency based in Bitcoin Cash or other types of applications, such as loyalty points for your business, tokenization of tickets and tickets, tickets for events, anything capable of transferring its value. Go to **[Tokenizing SAS](https://tokenizing.wixsite.com/tokenizing)**
 
-- **[Blockchain Explorer] (##):** You can consult at any time and in real time the record of transactions of everything that happens with the Bitcoin Latino network in its public ledgers at **[SimpleLedgerProtocol ](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** and in **[BitcoinExplorer] (https://explorer.bitcoin.com/bch/tx/20eb60e13347e2deb5d95e15ae8619179b3552ca02a)** and on **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20eb60e13347ca2/tx/20eb60e13347ca02deb5d95e13347a)**
+- **[Blockchain Explorer] (##):** You can consult at any time and in real time the record of transactions of everything that happens with the Bitcoin Latino network in its public ledgers at **[SimpleLedgerProtocol ](https://simpleledger.info/token/20e8e13347a76f6041bf7d31b04a7bbb7e2deb5d95e15ae8619179b3552ca02a)** and in **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20eb60e13347e2deb5d95e15ae8619179b3552ca02a)** and on **[BitcoinExplorer](https://explorer.bitcoin.com/bch/tx/20eb60e13347ca2/tx/20eb60e13347ca02deb5d95e13347a)**
 
 - **[Electronic Teller Machine](##):** The General Bytes Electronic Teller Machine **[BATMThree](https://www.generalbytes.com/en/products/batmthree)** is compatible with the SLP protocol of Bitcoin Latino, so that any person or company in the world can use it to start their project in Bitcoin Latino and earn the commissions of the network for the change from BTCL to cash and vice versa. Postscript: BTCL technology integration must be done in the **[General Bytes](https://github.com/bitcoinlatino/batm_public) github open repository**.
+
+## Latin Bitcoin Mining
+
+Bitcoin Latino uses a novel Bitcoin Scrypt for mining new BTCL, first introduced by the **[Mist Project](https://mistcoin.org/)**. The scrypt is in a full covenant contract that is in charge of validating the **mining solutions, programming the reward per block and keeping the height of the BTCL token synchronized with the Bitcoin Cash blockchain.** 4 contracts were developed in mist covenant but the one we use in BTCL is the **`Covenant_1`** compiled in the variable **`MINER_COVENANT_1`** of the **.env** file of the full miner folder. Go to github to the open repository of: **[`BTCL Mining mist-miner`](https://github.com/bitcoinlatino/mist-miner/blob/master/README.md)** and Cloned Repository of **[`MAZE bchd-miner and JT-miner`](https://github.com/bitcoinlatino/mining)**.
+
+**`MINER_COVENANT_V1 ="5779820128947f777601207f75597982012c947f757601687f777678827758947 f7576538b7f77765c7982777f011179011179ad011179828c7f756079a8011279bb011479815e7981788c8 8765b79968b0114795e795279965480880400000000011579bc7e0112790117797eaa765f797f757681008 854011a797e56797e170000000000000000396a04534c50000101044d494e54200113797e030102087e547 97e0c22020000000000001976a914011879a97e0288ac7e0b220200000000000017a9145379a97e01877e5 27952797e787eaa607988587901127993b175516b6d6d6d6d6d6d6d6d6d6d6d6d6d6d6d6c "`**
+
+The reward for mining Bitcoin Latino will start at **`800 BTCL per block`** and will decrease every 4320 blocks at a constant rate, as can be seen in **` graph 1.`**
+
+![Image](/docs/Reward_BTCL.png)
+**Graph 1.** `Rewards schedule for mining BTCL`
+
+The BTCL mining will end when the state variable of **ʻtoken height´** takes the value of **`2,147,483,648`**, which will occur approximately in the year 42877 if the miner keeps mining blocks and in sync with the Bitcoin Cash blockchain.
+
+The maximum supply of BTCL will then approach **`21,000,000 BTCL`** asymptotically over a long period of time (43,000 years) as can be seen in the following table.
+
+Genesys Time | Circulating Supply
+----------------------- | ----------------------------
+Día 0  | 0 BTCL
+Día 1  | 57.600 BTCL
+Día 30 | 1.728.000 BTCL
+Día 60 | 2.592.000 BTCL
+Día 90 | 3.168.000 BTCL
+Día 150 | 3.945.000 BTCL
+Día 300 | 5.061.300 BTCL
+Año 1   | 5.400.000 BTCL
+Año 5   | 8.100.000 BTCL
+Año 50  | 12.080.000 BTCL
+Año 100 | 13.270.000 BTCL
+Año 1000  | 17.250.000 BTCL
+Año 42877 | 21.000.000 BTCL
+
+
+**`Bitcoin Latino`** es la primer moneda virtual mineable y descentralizada diseñada por un **`latino`** y específicamente para la **`comunidad latinoamericana`**, que siempre le ha tocado adoptar tecnologías existentes o diseñadas en otras latitudes.
+
+**`Creador`** **[El_Bitcoiner C_M_S](https://t.me/El_Bitcoiner_CMS)**.
