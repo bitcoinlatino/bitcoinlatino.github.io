@@ -108,4 +108,8 @@ Año 42877 | 21.000.000 BTCL
 
 **`Bitcoin Latino`** es la primer moneda virtual mineable y descentralizada diseñada por un **`latino`** y específicamente para la **`comunidad latinoamericana`**, que siempre le ha tocado adoptar tecnologías existentes o diseñadas en otras latitudes.
 
+## Disclaimer
+
+The following projects are experimental in nature and not meant to attract retail investment. If you don't know how cryptocurrency works do not attempt to invest your money into them.
+
 **`Creador`** **[El_Bitcoiner C_M_S](https://t.me/El_Bitcoiner_CMS)**.
