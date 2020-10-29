@@ -1,5 +1,6 @@
 # BTCL Bitcoin Latino
 ###### [`Documento Blanco, 1 de octubre de 2020`](https://bitcoinlatino.github.io/)
+###### [`Whitepaper, 1 october 2020`](https://github.com/bitcoinlatino/bitcoinlatino.github.io/blob/master/docs/index.md)
 
 ## Introducción
 
